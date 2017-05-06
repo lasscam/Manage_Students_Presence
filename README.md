@@ -1,2 +1,2 @@
 # Manage_Students_Presence
-Manage students presence
+The objective is to manage students presence
